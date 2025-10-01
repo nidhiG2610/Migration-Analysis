@@ -5,14 +5,17 @@ Migration analysis for the legacy code snippet based on the provided deliverable
 
 **Provide these three deliverables:**
 
-1. Video Analysis (5 minutes max, use Loom - it's free) Walk us through the code explaining:
+1. Video Analysis (5 minutes max, use Loom - it's free) Walk us through the code explaining: -
+
+https://github.com/nidhiG2610/Migration-Analysis
+https://github.com/nidhiG2610/Migration-Analysis/blob/master/migration-plan.md
 
 What business problem this code solves
 Three specific issues that need addressing
 Your approach to migrating this to Laravel
 Which Laravel patterns you'd use for the status logic and permissions
 
-2. Migration Assessment (1 page max)
+2. Migration Assessment (1 page max) - https://github.com/nidhiG2610/Migration-Analysis/blob/master/analysis.md
 
 Hours estimate to properly migrate this file
 Dependencies you'd need to investigate (those includes, the $UTB_CONFIG, etc.)
